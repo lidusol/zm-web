@@ -1,0 +1,11 @@
+{
+  "id": 1,
+  "smallTitle": "About Us",
+  "title": "Our Comapny",
+  "content": "We conceived a shared company owned by multiples; with shared values to create common prosperous welfare. The foundation was the synergy conviction; stars sshine brighter together and displace the darkness.",
+  "image": "img/A35A9847.jpg",
+  "stauts": [
+    { "id": 1, "number": "3", "letter": "K", "stautsName": "Happy Clients" },
+    { "id": 2, "number": "14", "letter": "K", "stautsName": "Success Projects" }
+  ]
+}

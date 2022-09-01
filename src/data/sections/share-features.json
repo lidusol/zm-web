@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "icon": "pe-7s-cash",
+    "title": "Minimum share 5",
+    "content": "Tempore corrupti temporibus fuga earum asperiores fugit laudantium."
+  },
+  {
+    "id": 2,
+    "icon": "pe-7s-cash",
+    "title": "Maximum share 5",
+    "content": "Tempore corrupti temporibus fuga earum asperiores fugit."
+  },
+  {
+    "id": 3,
+    "icon": "pe-7s-display1",
+    "title": "Subscription 30%",
+    "content": "Tempore corrupti temporibus fuga earum asperiores fugit."
+  },
+  {
+    "id": 4,
+    "icon": "pe-7s-date",
+    "title": "100% within 12 months",
+    "content": "Tempore corrupti temporibus fuga earum asperiores fugit laudantium."
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "id": 1,
+    "title": "Manufacturing",
+    "content": "Heavy truck Tyre Rethreading Factory",
+    "image": "/img/banner-slide/01.jpg",
+    "link": "/projects/manufacturing"
+  },
+
+  {
+    "id": 2,
+    "title": "Agro Processing",
+    "content": "Integrated Dairy Farm",
+    "image": "/img/banner-slide/02.jpg",
+    "link": "/projects/agro-processing"
+  },
+  {
+    "id": 3,
+    "title": "Service",
+    "content": "Hotels and Lodges",
+    "image": "/img/banner-slide/03.jpg",
+    "link": "/projects/service"
+  },
+  {
+    "id": 4,
+    "title": "Renewable Energy-Automotive",
+    "content": "Electric Energy intensive cars",
+    "image": "/img/banner-slide/04.jpg",
+    "link": "/projects/renewable-energy-automotive"
+  }
+]
