@@ -1,0 +1,52 @@
+{
+  "teams": [
+    {
+      "id": 1,
+      "image": "/img/team/01.webp",
+      "title": "Samuel Tegegne",
+      "sub": "BOD President"
+    },
+    {
+      "id": 2,
+      "image": "/img/team/02.webp",
+      "title": "Yemwedih Tadele",
+      "sub": "BOD v/president"
+    },
+    {
+      "id": 3,
+      "image": "/img/team/03.webp",
+      "title": "Andualem Bekel",
+      "sub": "Group CEO"
+    },
+    {
+      "id": 4,
+      "image": "/img/team/04.webp",
+      "title": "Zemen Arfacho",
+      "sub": "Finance director"
+    },
+    {
+      "id": 5,
+      "image": "/img/team/05.webp",
+      "title": "Ashebir Adane",
+      "sub": "BOD secretariat"
+    },
+    {
+      "id": 6,
+      "image": "/img/team/06.webp",
+      "title": "Ejigu Asfaw",
+      "sub": "PR"
+    },
+    {
+      "id": 7,
+      "image": "/img/team/07.webp",
+      "title": "Fitsum Admasu",
+      "sub": "PR"
+    },
+    {
+      "id": 8,
+      "image": "/img/team/08.png",
+      "title": "Your name",
+      "sub": "BOD Member"
+    }
+  ]
+}
